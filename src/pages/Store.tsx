@@ -16,3 +16,4 @@ export function Store() {
     </>
     )
 };
+export {};
